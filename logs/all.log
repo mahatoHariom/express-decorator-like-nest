@@ -1,0 +1,638 @@
+2024-06-22 17:17:35:1735 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:17:35:1735 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:17:35:1735 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:17:35:1735 [32minfo[39m: [32mRegistering route: GET /users/[39m
+2024-06-22 17:17:35:1735 [32minfo[39m: [32mRegistering route: POST /users/[39m
+2024-06-22 17:17:35:1735 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:22:29:2229 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:22:29:2229 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:22:29:2229 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:22:29:2229 [32minfo[39m: [32mRegistering route: GET /users/[39m
+2024-06-22 17:22:29:2229 [32minfo[39m: [32mRegistering route: POST /users/[39m
+2024-06-22 17:22:29:2229 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:22:32:2232 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:22:32:2232 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:22:32:2232 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:22:32:2232 [32minfo[39m: [32mRegistering route: GET /users/[39m
+2024-06-22 17:22:32:2232 [32minfo[39m: [32mRegistering route: POST /users/[39m
+2024-06-22 17:22:32:2232 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:23:04:234 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:23:04:234 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:23:04:234 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:23:04:234 [32minfo[39m: [32mRegistering route: GET /users/[39m
+2024-06-22 17:23:04:234 [32minfo[39m: [32mRegistering route: POST /users/[39m
+2024-06-22 17:23:04:234 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:24:45:2445 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:24:45:2445 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:24:45:2445 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:24:45:2445 [32minfo[39m: [32mRegistering route: GET /users/[39m
+2024-06-22 17:24:45:2445 [32minfo[39m: [32mRegistering route: POST /users/[39m
+2024-06-22 17:24:45:2445 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:24:51:2451 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:24:51:2451 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:24:51:2451 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:24:51:2451 [32minfo[39m: [32mRegistering route: GET /users/[39m
+2024-06-22 17:24:51:2451 [32minfo[39m: [32mRegistering route: POST /users/[39m
+2024-06-22 17:24:51:2451 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:25:32:2532 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:25:32:2532 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:25:32:2532 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:25:32:2532 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:25:37:2537 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:25:37:2537 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:25:37:2537 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:25:37:2537 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:26:36:2636 [35mhttp[39m: [35m::1 POST /auth/register 500 1206 - 30.118 ms[39m
+2024-06-22 17:28:37:2837 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:28:37:2837 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:28:37:2837 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:28:37:2837 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:28:39:2839 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:28:39:2839 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:28:39:2839 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:28:39:2839 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:28:57:2857 [35mhttp[39m: [35m::1 POST /auth/register 500 1206 - 11.875 ms[39m
+2024-06-22 17:29:37:2937 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:29:37:2937 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:29:37:2937 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:29:37:2937 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:29:43:2943 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:29:43:2943 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:29:43:2943 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:29:43:2943 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:29:43:2943 [35mhttp[39m: [35m::1 POST /auth/register 500 1363 - 13.299 ms[39m
+2024-06-22 17:29:49:2949 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:29:49:2949 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:29:49:2949 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:29:49:2949 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:29:51:2951 [35mhttp[39m: [35m::1 POST /auth/register 200 184 - 170.414 ms[39m
+2024-06-22 17:30:03:303 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:30:03:303 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:30:03:303 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:30:03:303 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:30:05:305 [35mhttp[39m: [35m::1 POST /auth/register 500 1363 - 13.142 ms[39m
+2024-06-22 17:30:30:3030 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:30:30:3030 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:30:30:3030 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:30:30:3030 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:30:36:3036 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:30:36:3036 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:30:36:3036 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:30:36:3036 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:30:45:3045 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:30:45:3045 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:30:45:3045 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:30:45:3045 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:30:47:3047 [35mhttp[39m: [35m::1 POST /auth/register 500 1363 - 12.497 ms[39m
+2024-06-22 17:30:48:3048 [35mhttp[39m: [35m::1 POST /auth/register 500 1363 - 5.215 ms[39m
+2024-06-22 17:31:23:3123 [35mhttp[39m: [35m::1 POST /auth/register 500 1363 - 4.045 ms[39m
+2024-06-22 17:32:10:3210 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:32:10:3210 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:32:10:3210 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:32:10:3210 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:32:16:3216 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:32:16:3216 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:32:16:3216 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:32:16:3216 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:32:18:3218 [35mhttp[39m: [35m::1 POST /auth/register 409 522 - 67.923 ms[39m
+2024-06-22 17:35:03:353 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:35:03:353 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:35:03:353 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:35:03:353 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:35:15:3515 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:35:15:3515 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:35:15:3515 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:35:15:3515 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:35:32:3532 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:35:39:3539 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:35:45:3545 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:35:45:3545 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:35:45:3545 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:35:45:3545 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:35:55:3555 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:35:55:3555 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:35:55:3555 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:35:55:3555 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:35:59:3559 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:35:59:3559 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:35:59:3559 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:35:59:3559 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:36:08:368 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:36:08:368 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:36:08:368 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:36:08:368 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:36:25:3625 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:36:25:3625 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:36:25:3625 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:36:25:3625 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:37:01:371 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:37:01:371 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:37:01:371 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:37:01:371 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:39:29:3929 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:39:29:3929 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:39:29:3929 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:39:29:3929 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:39:30:3930 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:39:30:3930 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:39:30:3930 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:39:30:3930 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:42:35:4235 [35mhttp[39m: [35m::1 POST /auth/register 200 186 - 156.573 ms[39m
+2024-06-22 17:44:11:4411 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:44:11:4411 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:44:11:4411 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:44:11:4411 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:44:17:4417 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:44:17:4417 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:44:17:4417 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:44:17:4417 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:44:18:4418 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:44:18:4418 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:44:18:4418 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:44:18:4418 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:44:24:4424 [35mhttp[39m: [35m::1 POST /auth/register 409 521 - 44.930 ms[39m
+2024-06-22 17:44:29:4429 [35mhttp[39m: [35m::1 POST /auth/register 200 186 - 106.381 ms[39m
+2024-06-22 17:49:36:4936 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:49:36:4936 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:49:36:4936 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:49:36:4936 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:49:43:4943 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:49:43:4943 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:49:43:4943 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:49:43:4943 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:49:51:4951 [35mhttp[39m: [35m::1 POST /auth/register 409 521 - 72.983 ms[39m
+2024-06-22 17:49:57:4957 [35mhttp[39m: [35m::1 POST /auth/register 200 186 - 109.135 ms[39m
+2024-06-22 17:51:11:5111 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:51:11:5111 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:51:11:5111 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:51:11:5111 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:51:34:5134 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:51:37:5137 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:51:49:5149 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:52:17:5217 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:52:19:5219 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:52:27:5227 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:52:27:5227 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:52:27:5227 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:52:27:5227 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:52:29:5229 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:52:29:5229 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:52:29:5229 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:52:29:5229 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:52:33:5233 [35mhttp[39m: [35m::1 POST /auth/register 409 521 - 46.262 ms[39m
+2024-06-22 17:52:41:5241 [35mhttp[39m: [35m::1 POST /auth/register 200 186 - 107.236 ms[39m
+2024-06-22 17:53:15:5315 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:53:20:5320 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:53:28:5328 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:53:28:5328 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:53:28:5328 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:53:28:5328 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:53:45:5345 [35mhttp[39m: [35m::1 POST /auth/register 200 186 - 144.340 ms[39m
+2024-06-22 17:55:02:552 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:55:02:552 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:55:02:552 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:55:02:552 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:55:08:558 [35mhttp[39m: [35m::1 POST /auth/register 200 188 - 145.012 ms[39m
+2024-06-22 17:56:03:563 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:56:03:563 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:56:03:563 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:56:03:563 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:56:10:5610 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:56:10:5610 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:56:10:5610 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:56:10:5610 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:56:15:5615 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:56:15:5615 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:56:15:5615 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:56:15:5615 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:56:17:5617 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:56:17:5617 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:56:17:5617 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:56:17:5617 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:56:46:5646 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:56:46:5646 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:56:46:5646 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:56:46:5646 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:56:48:5648 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:56:48:5648 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:56:48:5648 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:56:48:5648 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:57:00:570 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:57:00:570 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:57:00:570 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:57:00:570 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:57:05:575 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:57:05:575 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:57:05:575 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:57:05:575 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:59:31:5931 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:59:39:5939 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:59:43:5943 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:59:46:5946 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 17:59:58:5958 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 17:59:58:5958 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 17:59:58:5958 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 17:59:58:5958 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 18:00:24:024 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 18:00:24:024 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 18:00:24:024 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 18:00:24:024 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 18:05:38:538 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 18:05:38:538 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 18:05:38:538 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 18:05:38:538 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 18:05:42:542 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 18:05:42:542 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 18:05:42:542 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 18:05:42:542 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 18:05:53:553 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 18:05:53:553 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 18:05:53:553 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 18:05:53:553 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 18:05:57:557 [35mhttp[39m: [35m::1 POST /auth/register 500 1236 - 12.588 ms[39m
+2024-06-22 18:06:03:63 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 18:06:03:63 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 18:06:03:63 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 18:06:03:63 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 18:06:06:66 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 18:06:06:66 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 18:06:06:66 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 18:06:06:66 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 18:06:07:67 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 18:06:07:67 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 18:06:07:67 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 18:06:07:67 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:28:41:2841 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:28:41:2841 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:28:41:2841 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:28:41:2841 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:28:50:2850 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:28:50:2850 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:28:50:2850 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:28:50:2850 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:28:52:2852 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:28:52:2852 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:28:52:2852 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:28:52:2852 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:29:14:2914 [35mhttp[39m: [35m::1 POST /auth/register 500 1236 - 13.375 ms[39m
+2024-06-22 20:30:53:3053 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:30:53:3053 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:30:53:3053 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:30:53:3053 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:31:22:3122 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:31:22:3122 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:31:22:3122 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:31:22:3122 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:31:33:3133 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:31:33:3133 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:31:33:3133 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:31:33:3133 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:31:37:3137 [35mhttp[39m: [35m::1 POST /auth/register 500 1236 - 11.601 ms[39m
+2024-06-22 20:34:44:3444 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:37:47:3747 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:37:47:3747 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:37:47:3747 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:37:47:3747 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:38:09:389 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:38:09:389 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:38:09:389 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:38:09:389 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:38:12:3812 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:38:12:3812 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:38:12:3812 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:38:12:3812 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:38:14:3814 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:38:14:3814 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:38:14:3814 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:38:14:3814 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:38:14:3814 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:38:14:3814 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:38:14:3814 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:38:14:3814 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:38:20:3820 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:38:20:3820 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:38:20:3820 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:38:20:3820 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:38:22:3822 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:38:22:3822 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:38:22:3822 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:38:22:3822 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:38:26:3826 [35mhttp[39m: [35m::1 POST /auth/register 200 198 - 177.533 ms[39m
+2024-06-22 20:40:40:4040 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:40:40:4040 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:40:40:4040 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:40:40:4040 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:40:43:4043 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:40:43:4043 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:40:43:4043 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:40:43:4043 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:40:46:4046 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:40:46:4046 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:40:46:4046 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:40:46:4046 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:40:47:4047 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:40:47:4047 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:40:47:4047 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:40:47:4047 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:41:01:411 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:41:01:411 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:41:01:411 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:41:01:411 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:43:31:4331 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:43:31:4331 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:43:31:4331 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:43:31:4331 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:46:32:4632 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:46:32:4632 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:46:32:4632 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:46:32:4632 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:49:13:4913 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:49:13:4913 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:49:13:4913 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:49:13:4913 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:49:16:4916 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:49:16:4916 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:49:16:4916 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:49:16:4916 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:49:32:4932 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:49:32:4932 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:49:32:4932 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:49:32:4932 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:49:34:4934 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:49:34:4934 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:49:34:4934 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:49:34:4934 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:51:56:5156 [35mhttp[39m: [35m::1 POST /auth/register 500 1236 - 12.820 ms[39m
+2024-06-22 20:52:05:525 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 20:52:05:525 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 20:52:05:525 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 20:52:05:525 [32minfo[39m: [32mServer running on port 9000 [39m
+2024-06-22 20:52:10:5210 [35mhttp[39m: [35m::1 POST /auth/register 409 522 - 64.226 ms[39m
+2024-06-22 21:05:32:532 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:05:32:532 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:05:32:532 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:06:03:63 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:06:03:63 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:06:03:63 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:06:37:637 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:06:37:637 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:06:37:637 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:06:45:645 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:06:45:645 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:06:45:645 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:06:51:651 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:06:51:651 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:06:51:651 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:07:10:710 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:07:10:710 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:07:10:710 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:07:13:713 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:07:13:713 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:07:13:713 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:09:36:936 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:09:36:936 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:09:36:936 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:12:53:1253 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:12:53:1253 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:12:53:1253 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:20:56:2056 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:20:56:2056 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:20:56:2056 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:21:44:2144 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:21:44:2144 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:21:44:2144 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:22:02:222 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:22:02:222 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:22:02:222 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:22:06:226 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:22:06:226 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:22:06:226 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:23:04:234 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:23:04:234 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:23:04:234 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:24:12:2412 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:24:12:2412 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:24:12:2412 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:24:29:2429 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:24:29:2429 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:24:29:2429 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:24:54:2454 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:24:54:2454 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:24:54:2454 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:24:57:2457 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:24:57:2457 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:24:57:2457 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:25:01:251 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:25:01:251 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:25:01:251 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:25:15:2515 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:25:15:2515 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:25:15:2515 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:25:39:2539 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:25:39:2539 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:25:39:2539 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:25:48:2548 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:25:48:2548 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:25:48:2548 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:26:00:260 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:26:00:260 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:26:00:260 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:29:15:2915 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:29:15:2915 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:29:15:2915 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:29:40:2940 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:29:40:2940 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:29:40:2940 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:29:53:2953 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:29:53:2953 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:29:53:2953 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:30:04:304 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:30:04:304 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:30:04:304 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:30:14:3014 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:30:14:3014 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:30:14:3014 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:33:31:3331 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:33:31:3331 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:33:31:3331 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:38:56:3856 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:38:56:3856 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:38:56:3856 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:42:07:427 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:42:07:427 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:42:07:427 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:42:35:4235 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:42:35:4235 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:42:35:4235 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:42:50:4250 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:42:50:4250 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:42:50:4250 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:43:37:4337 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:43:37:4337 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:43:37:4337 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:44:04:444 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:44:04:444 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:44:04:444 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:45:18:4518 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:45:18:4518 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:45:18:4518 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:48:26:4826 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:48:26:4826 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:48:26:4826 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:48:41:4841 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:48:41:4841 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:48:41:4841 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:49:04:494 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:49:04:494 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:49:04:494 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:49:10:4910 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:49:10:4910 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:49:10:4910 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:49:13:4913 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:49:13:4913 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:49:13:4913 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:49:23:4923 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:49:23:4923 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:49:23:4923 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-22 21:49:26:4926 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-22 21:49:26:4926 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-22 21:49:26:4926 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 06:27:51:2751 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 06:27:51:2751 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 06:27:51:2751 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 06:31:05:315 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 06:31:05:315 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 06:31:05:315 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 06:31:22:3122 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 06:31:22:3122 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 06:31:22:3122 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 06:31:30:3130 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 06:31:30:3130 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 06:31:30:3130 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 06:31:51:3151 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 06:31:51:3151 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 06:31:51:3151 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 06:32:03:323 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 06:32:03:323 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 06:32:03:323 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 06:33:12:3312 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 06:33:12:3312 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 06:33:12:3312 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 06:51:22:5122 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 06:51:22:5122 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 06:51:22:5122 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 06:53:24:5324 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 06:53:24:5324 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 06:53:24:5324 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 06:56:28:5628 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 06:56:28:5628 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 06:56:28:5628 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 07:25:21:2521 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 07:25:21:2521 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 07:25:21:2521 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 07:25:36:2536 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 07:25:36:2536 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 07:25:36:2536 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 07:25:46:2546 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 07:25:46:2546 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 07:25:46:2546 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 07:25:49:2549 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 07:25:49:2549 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 07:25:49:2549 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 07:25:50:2550 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 07:25:50:2550 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 07:25:50:2550 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 07:27:02:272 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 07:27:02:272 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 07:27:02:272 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 09:02:07:27 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 09:02:07:27 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 09:02:07:27 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 09:07:24:724 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 09:07:24:724 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 09:07:24:724 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 09:07:25:725 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 09:07:25:725 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 09:07:25:725 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 09:07:26:726 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 09:07:26:726 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 09:07:26:726 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 09:07:36:736 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 09:07:36:736 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 09:07:36:736 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 09:07:36:736 [32minfo[39m: [32mServer running on port 9000[39m
+2024-06-23 09:07:44:744 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 09:07:44:744 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 09:07:44:744 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 09:07:44:744 [32minfo[39m: [32mServer running on port 9000[39m
+2024-06-23 09:07:47:747 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 09:07:47:747 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 09:07:47:747 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 09:07:47:747 [32minfo[39m: [32mServer running on port 9000[39m
+2024-06-23 09:07:54:754 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 09:07:54:754 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 09:07:54:754 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 09:07:54:754 [32minfo[39m: [32mServer running on port 9000[39m
+2024-06-23 09:07:55:755 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-06-23 09:07:55:755 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-06-23 09:07:55:755 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-06-23 09:07:55:755 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-10 07:01:36:136 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-10 07:01:36:136 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-10 07:01:36:136 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-10 07:01:36:136 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-10 07:01:58:158 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-10 07:01:58:158 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-10 07:01:58:158 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-10 07:01:58:158 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-10 07:02:18:218 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-10 07:02:18:218 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-10 07:02:18:218 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-10 07:02:18:218 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-10 07:02:37:237 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-10 07:02:37:237 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-10 07:02:37:237 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-10 07:02:37:237 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-10 17:54:24:5424 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-10 17:54:24:5424 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-10 17:54:24:5424 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-10 17:54:24:5424 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-11 06:24:12:2412 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-11 06:24:12:2412 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-11 06:24:12:2412 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-11 06:24:12:2412 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-11 06:31:25:3125 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-11 06:31:49:3149 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-11 06:31:49:3149 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-11 06:31:49:3149 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-11 06:31:49:3149 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-11 06:32:23:3223 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-11 06:32:23:3223 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-11 06:32:23:3223 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-11 06:32:23:3223 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-11 06:35:30:3530 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-11 06:35:30:3530 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-11 06:35:30:3530 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-11 06:39:01:391 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-11 06:39:01:391 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-11 06:39:01:391 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-11 06:39:06:396 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-11 06:39:06:396 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-11 06:39:06:396 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-11 06:39:06:396 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-11 06:43:16:4316 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-11 06:43:16:4316 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-11 06:43:16:4316 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-11 06:43:16:4316 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-11 06:44:15:4415 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-11 06:44:15:4415 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-11 06:44:15:4415 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-11 06:44:15:4415 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-11 06:44:16:4416 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-11 06:44:16:4416 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-11 06:44:16:4416 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-11 06:44:16:4416 [32minfo[39m: [32mServer running on port 9000[39m
+2024-07-11 06:44:55:4455 [32minfo[39m: [32mRegistering route: POST /auth/register[39m
+2024-07-11 06:44:55:4455 [32minfo[39m: [32mRegistering route: POST /auth/login[39m
+2024-07-11 06:44:55:4455 [32minfo[39m: [32mRegistering route: POST /auth/refresh-token[39m
+2024-07-11 06:44:55:4455 [32minfo[39m: [32mServer running on port 9000[39m
