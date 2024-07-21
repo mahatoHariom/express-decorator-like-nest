@@ -1,5 +1,5 @@
 import express from "express";
-import { processModule, registerControllers } from "./registerControllers";
+import {  processModule, registerControllers } from "./registerControllers";
 import { ClassType } from "../decorators/module";
 
 export function createApp(app: express.Application, mainModule: ClassType) {

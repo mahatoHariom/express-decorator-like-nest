@@ -1,8 +1,8 @@
 import "reflect-metadata";
-import { Method, RouteMetadata } from "../domain/@types/common";
+import { Method, Middleware, RouteMetadata } from "../domain/@types/common";
 
 function createRouteDecorator(method: Method) {
-  return (path: string): MethodDecorator => {
+  return (path: string, ...middlewares: Middleware[]): MethodDecorator => {
     return (target, propertyKey, descriptor) => {
       if (!Reflect.hasMetadata("routes", target.constructor)) {
         Reflect.defineMetadata("routes", [], target.constructor);
@@ -11,11 +11,14 @@ function createRouteDecorator(method: Method) {
         "routes",
         target.constructor
       ) as RouteMetadata[];
+
       routes.push({
         method,
         path,
         handler: propertyKey as string | symbol,
+        middlewares: middlewares,
       });
+
       Reflect.defineMetadata("routes", routes, target.constructor);
     };
   };

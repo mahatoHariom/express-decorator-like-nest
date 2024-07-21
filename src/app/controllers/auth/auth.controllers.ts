@@ -5,7 +5,6 @@ import { AuthService } from "../../../domain/services/auth/auth.services";
 import { User } from "@prisma/client";
 import { Controller } from "../../../decorators/controllers";
 import { Post } from "../../../decorators/routes";
-import { UseMiddlewares } from "../../../decorators/middleware";
 import { Body, CurrentUser, Req, Res } from "../../../decorators/params";
 import { validateRequestBody } from "../../../infrastructure/middlewares/validateRequestDto";
 
@@ -14,8 +13,7 @@ import { validateRequestBody } from "../../../infrastructure/middlewares/validat
 export class AuthController {
   constructor(private authService: AuthService) {}
 
-  @Post("/register")
-  @UseMiddlewares(validateRequestBody(CreateUserDTO))
+  @Post("/register",validateRequestBody(CreateUserDTO))
   async register(@Body() body: CreateUserDTO, @Res() res: Response,@Req() req:Request) {
     return await this.authService.createUser(body);
   }

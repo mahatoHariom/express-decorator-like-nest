@@ -1,26 +1,25 @@
 import dotenv from "dotenv";
 import express from "express";
 import { createApp } from "./app/createApp";
-
 import { logger, morganMiddleware } from "./infrastructure/middlewares/morgan";
 import ErrorHandler from "./infrastructure/middlewares/error-handler";
 import { AppModule } from "./app/app.module";
-import { initializeApp } from "./setup";
+import { limiter } from "./infrastructure/config/rate-limit";
 
 dotenv.config();
 
 const app = express();
 
-// Apply the initial middleware before registering routes
-initializeApp(app);
+app.use(express.json());
 
-// Create the app with registered routes and providers
-createApp(app, AppModule);
+app.use(express.urlencoded({ extended: true }));
 
-// Use Morgan middleware for logging
 app.use(morganMiddleware);
 
-// Error handling middleware
+app.use(limiter);
+
+createApp(app, AppModule);
+
 app.use(ErrorHandler);
 
 const PORT = process.env.PORT || 3000;

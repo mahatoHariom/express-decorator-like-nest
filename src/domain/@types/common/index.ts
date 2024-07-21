@@ -35,7 +35,7 @@ export interface RouteMetadata {
   method: Method;
   path: string;
   handler: PropertyKey;
-  // middlewares: any[];
+  middlewares: Middleware[];
 }
 
 declare global {

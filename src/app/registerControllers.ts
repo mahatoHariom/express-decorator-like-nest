@@ -1,4 +1,3 @@
-
 import express, { NextFunction, Request, Response } from "express";
 import { Middleware, RouteMetadata } from "../domain/@types/common";
 import { logger } from "../infrastructure/middlewares/morgan";
@@ -9,7 +8,10 @@ import {
   PROVIDERS_KEY,
 } from "../decorators/module";
 import { asyncHandler } from "../infrastructure/middlewares/async-handler";
-import { GLOBAL_PROVIDERS_KEY, INJECTABLE_METADATA_KEY } from "../domain/@types/constants";
+import {
+  GLOBAL_PROVIDERS_KEY,
+  INJECTABLE_METADATA_KEY,
+} from "../domain/@types/constants";
 import { diContainer } from "../infrastructure/config/diContainer";
 
 export function instantiateProvider(
@@ -44,7 +46,6 @@ export function instantiateProvider(
   return instance;
 }
 
-
 export function registerControllers(
   app: express.Application,
   controllers: ClassType[],
@@ -74,21 +75,14 @@ export function registerControllers(
     ) as RouteMetadata[];
 
     routes.forEach((route) => {
-      const { method, path, handler } = route;
+      const { method, path, handler, middlewares = [] } = route;
       const fullPath = `${basePath}${path}`;
 
       logger.info(`Registering route: ${method.toUpperCase()} ${fullPath}`);
 
-      const middlewaresMap =
-        (Reflect.getMetadata("middlewares", ControllerCls) as Record<
-          string | symbol,
-          Middleware[]
-        >) || {};
-      const handlerMiddlewares = middlewaresMap[handler] || [];
-
       app[method](
         fullPath,
-        ...handlerMiddlewares,
+        ...middlewares,
         asyncHandler(
           async (req: Request, res: Response, next: NextFunction) => {
             const args: any[] = [];
@@ -131,7 +125,6 @@ export function registerControllers(
     });
   });
 }
-
 
 
 export function processModule(

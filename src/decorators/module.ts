@@ -20,33 +20,6 @@ export interface ModuleMetadata {
   globalProviders?: ClassType[];
 }
 
-// export function Module(metadata: ModuleMetadata): ClassDecorator {
-//   return (target: any) => {
-//     Reflect.defineMetadata(CONTROLLERS_KEY, metadata.controllers, target);
-//     Reflect.defineMetadata(PROVIDERS_KEY, metadata.providers, target);
-//     Reflect.defineMetadata(IMPORTS_KEY, metadata.imports, target);
-
-//     // Register imports first
-//     (metadata.imports || []).forEach((importedModule) => {
-//       const importedMetadata = Reflect.getMetadata(
-//         "module:metadata",
-//         importedModule
-//       ) as ModuleMetadata;
-//       if (importedMetadata) {
-//         Module(importedMetadata)(importedModule);
-//       }
-//     });
-
-//     // Register providers
-//     (metadata.providers || []).forEach((provider) => {
-//       diContainer.register(provider, { useClass: provider });
-//     });
-
-//     // Controllers will be processed separately
-//   };
-// }
-
-
 
 export function Module(metadata: ModuleMetadata): ClassDecorator {
   return (target: any) => {
